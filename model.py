@@ -15,5 +15,4 @@ def model3():
 print("model2 is performing best")
 
 
-print("model1 is not performing at all")
 
